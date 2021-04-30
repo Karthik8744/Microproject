@@ -1,0 +1,11 @@
+pid,category,type,size,stock,price
+101,Top wear,Kurthi,S,40,999
+102,Top wear,Kurthi,M,50,999
+103,Top wear,Kurthi,L,50,999
+104,Top wear,T-shirt,S,60,799
+105,Top wear,T-shirt,M,40,799
+106,Bottom wear,Jeans,L,70,1199
+107,Bottom wear,Jeans,S,30,1199
+108,Bottom wear,Legging,M,40,1199
+109,Bottom wear,Legging,L,50,1199
+110,Bottom wear,Short,S,60,699
